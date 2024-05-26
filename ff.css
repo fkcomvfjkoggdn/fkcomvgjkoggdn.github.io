@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(149, 16, 167);
+}
+
+h1 {
+    color: chartreuse;
+}
+
+ul {
+ color: chartreuse;
+}   
+
+a {
+color: crimson;
+background-color: blue;
+border-radius: 10px;
+font-size: 30px;
+text-decoration: none;
+
+}
+
+header {
+   background-color: chartreuse;
+   padding: 20px 0px 20px 25px;
+   border-radius: 10px;
+}
+
+.link-header {
+    padding: 1px;
+}
+
+img {
+    border-radius:10px ;
+}
